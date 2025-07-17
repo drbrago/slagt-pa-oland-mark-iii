@@ -1,24 +1,49 @@
 # YZE: Grundregler
 
-Year Zero Engine använder ett poolsätt att kasta tärningar. Spelaren kombinerar sitt relevant attribut med en baskunskap för att avgöra hur många sexsidiga tärningar som kastas.
+Year Zero Engine använder ett poolsystem där du kombinerar ett **attribut** och en **färdighet** för att bilda en hand med grundtärningar. Bra utrustning ger även extra utrustningstärningar.
 
-## Attribut och baskunskaper
+## Attribut
 
-| Attribut  | Beskrivning |
-|-----------|-------------|
+| Attribut | Beskrivning |
+|---------|-------------|
 | **Styrka** | Fysisk kraft och uthållighet |
-| **Rörlighet** | Förmåga att hålla balansen och vara snabb |
+| **Rörlighet** | Smidighet och snabbhet |
 | **Skärpa** | Uppmärksamhet och intelligens |
 | **Själ** | Viljestyrka och mentalt fokus |
 
-Det finns tolv baskunskaper, exempelvis **Observation**, **Närstrid** och **Överlevnad**. Varje baskunskap är kopplad till ett attribut.
+### Färdigheter
 
-## Tärningsslag och push
+Några exempel på färdigheter och tillhörande attribut:
 
-1. Räkna ihop attribut + baskunskap = antal tärningar i poolen.
-2. Varje tärning som visar en sexa ger en framgång. Minst en framgång krävs för lyckat slag.
-3. Du kan **pusha** slaget en gång: kasta om alla tärningar som inte visade sexa men få en stresspoäng.
+| Färdighet | Attribut |
+|-----------|---------|
+| **Närstrid** | Styrka |
+| **Skjutvapen** | Rörlighet |
+| **Observation** | Skärpa |
+| **Manipulation** | Själ |
+
+Totalt finns tolv färdigheter i grundreglerna, från **Teknik** till **Överlevnad**.
+
+## Tärningsslag
+
+1. Räkna attribut + färdighet = antal grundtärningar.
+2. Lägg till utrustningstärningar från vapen eller verktyg.
+3. Slå alla tärningar. Varje sexa är en framgång.
+4. Extra framgångar kan användas till stuntar som mer skada eller snabbare resultat.
+
+### Att pusha slag
+
+Du får **pusha** ett slag en gång.
+
+- Slå om alla tärningar som inte visade sexa.
+- Varje etta på grundtärningar ger dig en stresspoäng.
+- Varje etta på utrustningstärningar kan skada din utrustning.
+
+Stress gör dig pressad men kan även trigga särskilda talanger.
 
 ### Exempel
 
-Klara ska slå för att lura en patrullerande robot. Hon har Rörlighet 3 och Förtrolighet 2 (totalt 5 tärningar). Hon får ingen sexa, så hon pushar. Hon får två sexor på omkastet men också en stresspoäng.
+Lisa försöker laga sitt Gimmick-vapen medan zombier bankar på dörren. Hon har Skärpa 2, Teknik 2 och ett verktygsbälte (+1 utrustningstärning). Efter ett misslyckat första slag pushar hon. Två sexor räddar situationen men hennes bälte går sönder på grund av en etta och hon får en stresspoäng.
+
+---
+*Reglerna bygger på Year Zero Engine. Se [licensen](../LICENSE.md).* 
