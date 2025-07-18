@@ -2,8 +2,8 @@
 
 I den kraschade världen på Öland finns fortfarande mystiska energier att bemästra. 
 Fyra huvudkategorier av krafter kan läras: **magiska discipliner**, **psioniska talanger**, 
-**strålningsböjning** och **zombiegaskontroll**. Alla kräver **Viljestyrka (WP)** för att 
-aktiveras.
+**strålningsböjning** och **zombiegaskontroll**. Alla kräver **Willpower Points (WP)**
+\u2013 viljestyrka – för att aktiveras.
 
 ## Allmänna regler
 - Att använda en kraft är oftast en **långsam handling** och kostar minst 1 WP.

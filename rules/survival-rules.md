@@ -11,6 +11,7 @@ Det här kapitlet beskriver hur hunger, sömnbrist och sjukdomar bryter ned äve
 | Uttorkad | Ta 1 skada varje timme |
 
 Du kan klara dig ungefär en dag utan vatten och ett par dagar utan mat. Efter det staplar effekterna snabbt på varandra.
+En fylld vattenflaska räcker normalt för att ta bort effekten "Uttorkad".
 
 ## Sömn och utmattning
 

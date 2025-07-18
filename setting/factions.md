@@ -6,9 +6,9 @@ Ett antal grupper kämpar om makten på Öland.
 
 | Namn | Mål |
 |------|-----|
-| KODFRI | Krossa DishCore och återskapa internet |
-| De Renade | Slåss för att uppfylla Projekt TotalRenhet |
-| Gammelsvärmarna | Samlar på förkrigsteknik |
+| KODFRI | Krossa DishCore och återskapa internet via hemliga servrar. |
+| De Renade | Fullfölja Projekt TotalRenhet och rensa Öland från smitta. |
+| Gammelsvärmarna | Samla och dyrka förkrigsteknik. |
 
 ### Spelbar användning
 

@@ -77,7 +77,7 @@ De flesta slag använder D6, men ibland behövs annat:
 - **D100** – två tiosidiga tärningar, dubbelnolla räknas som 100.
 - **D666** – tre D6 för de allra värsta katastroferna.
 
-En specialkortlek kan även användas för initiativ och utrustning.
+En specialkortlek kan användas som minnesstöd för utrustning.
 
 ## Mäta tid
 
