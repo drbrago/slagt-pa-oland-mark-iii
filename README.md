@@ -8,6 +8,7 @@
   - [YZE – Grundmekanik](rules/yze-core.md)
   - [Överlevnadsregler](rules/survival-rules.md)
   - [Strid, mutationer och stress](rules/combat-mutation-stress.md)
+  - [Specialiteter](rules/specialties.md)
 - 🧍 Karaktärer:
   - [Skapa en karaktär](characters/character-creation.md)
   - [Arketyper](characters/archetypes.md)
