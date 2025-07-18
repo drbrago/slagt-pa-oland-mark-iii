@@ -8,6 +8,7 @@
   - [YZE – Grundmekanik](rules/yze-core.md)
   - [Överlevnadsregler](rules/survival-rules.md)
   - [Strid, mutationer och stress](rules/combat-mutation-stress.md)
+  - [Magi och krafter](rules/magic.md)
   - [Specialiteter](rules/specialties.md)
   - [Farliga miljöer](rules/hazards.md)
   - [Rid- och dragdjur](rules/mounts.md)
