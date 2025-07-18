@@ -9,6 +9,10 @@
   - [Överlevnadsregler](rules/survival-rules.md)
   - [Strid, mutationer och stress](rules/combat-mutation-stress.md)
   - [Specialiteter](rules/specialties.md)
+  - [Farliga miljöer](rules/hazards.md)
+  - [Rid- och dragdjur](rules/mounts.md)
+  - [Fordon](rules/vehicles.md)
+  - [Jaktscener](rules/chases.md)
 - 🧍 Karaktärer:
   - [Skapa en karaktär](characters/character-creation.md)
   - [Arketyper](characters/archetypes.md)
