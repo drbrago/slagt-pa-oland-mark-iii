@@ -13,6 +13,7 @@
   - [Farliga miljöer](rules/hazards.md)
   - [Rid- och dragdjur](rules/mounts.md)
   - [Fordon](rules/vehicles.md)
+  - [Resor](Chapter_6_Travel.md)
   - [Jaktscener](rules/chases.md)
 - 🧍 Karaktärer:
   - [Skapa en karaktär](characters/character-creation.md)
