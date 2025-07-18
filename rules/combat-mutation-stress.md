@@ -4,7 +4,7 @@ Strider utspelas i rundor där varje deltagare får en handling och en manöver.
 
 ## Initiativ och handlingar
 
-1. Alla rullar Rörlighet för initiativ. Högst antal framgångar agerar först.
+1. Alla kastar en D6 för initiativ. Det lägsta resultatet agerar först och ordningen står kvar under striden.
 2. Under din tur har du en **handling** (t.ex. attackera, skjuta, använda en mutation) och en **manöver** (t.ex. förflytta dig, dra vapen).
 3. Vissa talanger låter dig byta ut manövern mot en extra handling.
 

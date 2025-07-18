@@ -6,12 +6,12 @@ Använd dessa tabeller när spelarna bygger egna Gimmicks.
 
 | Slag | Kostnad |
 |------|---------|
-| 1 | 1 skrot |
-| 2 | 2 skrot |
-| 3 | 3 skrot |
-| 4 | 4 skrot |
-| 5 | 5 skrot |
-| 6 | Specialdel + 5 skrot |
+| 1 | 1 skrot. |
+| 2 | 2 skrot. |
+| 3 | 3 skrot. |
+| 4 | 4 skrot. |
+| 5 | 5 skrot. |
+| 6 | Specialdel + 5 skrot. |
 
 ### Exempel
 

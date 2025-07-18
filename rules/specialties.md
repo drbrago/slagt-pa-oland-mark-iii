@@ -19,7 +19,7 @@ Följande listor är exempel och kan byggas ut efter behov.
 
 ### 🔪 Kamp & Överlevnad
 - **Köttsköld:** Kast dig in och ta en träff för en nära allierad. Slå Rörlighet.
-- **Snabba reflexer:** Dra två initiativkort och välj det bästa.
+- **Snabba reflexer:** Slå två D6 för initiativ och använd det lägsta resultatet.
 - **Fjäderfot:** Parera i närstrid med Rörlighet i stället för Styrka.
 - **Benknäckare:** Offra din manöver för +1 på Närstrid.
 - **Mutantläkning:** Dina kritiska skador läker på halva tiden.

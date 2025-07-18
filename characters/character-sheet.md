@@ -8,6 +8,8 @@ Använd denna layout för att hålla koll på din överlevare.
 - Rörlighet: \_
 - Skärpa: \_
 - Själ: \_
+- Stress: \_
+- Mutationer: \_
 
 ## Utrustning och anteckningar
 

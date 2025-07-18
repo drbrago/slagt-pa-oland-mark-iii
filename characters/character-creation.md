@@ -1,6 +1,6 @@
 # Skapa en karaktär
 
-Följ dessa steg för att skapa en överlevare i den trasiga framtiden.
+Följ dessa steg för att skapa din karaktär i den trasiga framtiden.
 
 ## Steg 1: Välj arketyp
 
