@@ -1,4 +1,4 @@
-# Kapitel 6 – Resor
+# Resor
 
 ## Inledning
 Resor är livsviktiga men livsfarliga i det krossade landskapet på Öland. Zombier strövar genom ruinerna, DishCores drönare spanar längs vägarna och naturen är ofta förgiftad av projekten Silex och TotalRenhet. Att förflytta sig kräver planering och mod.
