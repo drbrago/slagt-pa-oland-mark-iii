@@ -20,6 +20,7 @@ Varje poäng skada sänker ditt Styrka-värde. När Styrka når noll är du utsl
 
 ## Stress och mutationer
 
+Mutationer är oftast resultatet av Silex-gasen som reagerat med strålningen från DishCores kärnkraftsexperiment.
 Stress mäts i en separat pool. Varje gång du pushar eller använder en mutation tar du ett stresspoäng. Om din stress överstiger din Själ riskerar du ett psykbryt och lyder spelledarens instruktioner tills du lugnat dig.
 
 Mutationer kostar dessutom ofta viljekraft eller ger fysiska bieffekter. Diskutera med spelledaren vad som händer om du misslyckas med mutationen.
