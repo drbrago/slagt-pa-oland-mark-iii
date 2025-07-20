@@ -7,7 +7,7 @@ Strider sker ofta i kartlagda zoner, varje zon ungefär ett rum eller 20 meter. 
 
 ## Handlingstyper
 
-Varje runda har du en **långsam handling** och en **snabb handling**, eller två snabba. Exempel på långsamma: springa en zon, slåss, avfyra gevär. Exempel på snabba: dra vapen, hoppa i skydd, öppna dörr. Släppa något eller väsa ett skämt kostar inget.
+Varje runda har du en **långsam handling** och en **snabb handling**, eller två snabba. Exempel på långsamma: springa en zon, slåss, avfyra gevär. Exempel på snabba: dra vapen, hoppa i skydd, öppna dörr. Släppa något eller ropa en order kostar inget.
 
 ## Försvar & undvika skada
 
@@ -17,7 +17,7 @@ När någon försöker slå klorna i dig kan du blockera med **Närstrid** som e
 
 Närstrid görs med färdigheten **Närstrid** på Engagerat avstånd. Lyckas du ger du vapnets skada och varje extra framgång höjer skadan med 1. I avståndsstrid använder du **Skytte**. På Medel avstånd får du -1 tärning, på Långt -2 och på Extremt -3. Att skjuta någon precis bredvid dig ger -3, om de inte är helt försvarslösa. Aiming som snabb handling ger +2, med sikte +3.
 
-> Exempel: Britta kastar ett rostigt sågblad mot en zombiefikagubbe. Hon rullar 2 framgångar, en extra för att skära örat av honom.
+> Exempel: Britta kastar ett rostigt sågblad mot en zombifierad tjänsteman. Hon rullar 2 framgångar, en extra för att skära örat av honom.
 
 ## Skador, Skydd & Bruten status
 

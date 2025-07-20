@@ -11,7 +11,7 @@ När idéerna sinar kan du slå på denna tabell.
 | 3 | Hemlig kod inristad i en gammal mobil. |
 | 4 | Explosion utlöst av en radio. |
 | 5 | Robotdelar som smälter samman. |
-| 6 | En gömd bunker fylld av tvättmedel. |
+| 6 | En gömd bunker fylld av saneringsmedel. |
 
 ### Exempel
 

@@ -1,13 +1,13 @@
 # Teman och stämning
 
-Spelets ton är en blandning av skräck och absurditet.
+Spelets ton är en blandning av skräck och torr ironi.
 
 ## Centrala teman
 
 - Människans kamp mot maskiner
-- Förstaelse av moral i en föröd miljö
+- Förståelse av moral i en förödd miljö
 - Hopp om att återta kontrollen
 
 ### Exempel
 
-Låt ett komiskt vapen uppstå ur allvaret, men påminn spelarna om farorna kring det.
+Låt bisarra upptäckter kontrastera mot miljöns hårdhet och påminn spelarna om farorna bakom varje skratt.

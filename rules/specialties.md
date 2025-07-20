@@ -50,9 +50,9 @@ Följande listor är exempel och kan byggas ut efter behov.
 - **Gasbändare (nivå 1–3):** Kontrollera små mängder Silex-gas. Kostar 1 Viljestyrka.
 - **Drönardomptör:** Styr en enkel drönare med tankekraft. Kostar 1 Viljestyrka.
 - **Metallböjare:** Böj metall med viljan. Kostar 1 Viljestyrka.
-- **Zombiehicka:** Få en zombie att rycka till och stanna en runda. Kostar 1 Viljestyrka.
+- **Zombiechock:** Få en zombie att rycka till och stanna en runda. Kostar 1 Viljestyrka.
 - **Dimmsyn:** Se genom rök, blod eller gas. Kostar 1 Viljestyrka.
-- **Strålningsvridare (nivå 1–3):** Forma den surströmmingsluktande strålningen till skada eller skydd. Kostar 1 Viljestyrka per effekt.
+- **Strålningsvridare (nivå 1–3):** Forma den illaluktande strålningen till skada eller skydd. Kostar 1 Viljestyrka per effekt.
 - **Radiofokus:** Hör kodade signaler i luften. +1 på Spaning för elektroniska hot. Kostar 1 Viljestyrka.
 - **Mutantvän:** Du har lättare att kommunicera med muterade djur. +1 på övertalning när du lugnar dem. Kostar 1 Viljestyrka.
 
