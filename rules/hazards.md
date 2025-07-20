@@ -40,6 +40,8 @@ Gift mäts i toxicitet. Svagt gift har 3 (steg D), starkt 6 (steg C) och mycket 
 *Paralyzing poison:* Du kan inte röra dig eller göra några handlingar på en sträcka.
 
 *Sleeping poison:* Du somnar och kan inte vakna på ett skift.
+## Strålning
+Strålningen från DishCores havererade reaktor är osynlig men luktar diskret surströmming. Varje skift i en strålningszon slår du 1T6: på 1–2 händer inget, 3–4 ger 1 stress, 5–6 ger 1 skada och en slumpmässig mutation. Effekten är permanent om inget botemedel hittas.
 
 ## Sjukdomar
 När du utsätts för en farlig smitta slår du ett motståndsslag i Uthållighet mot sjukdomens virulens, vanligtvis 6 (steg C). Misslyckas du blir du sjuk, tar 1 skada och kan inte läka skada. Slå ett nytt infekteringsslag en gång per dag; varje misslyckande ger 1 skada. Bryts du medan du är sjuk dör du efter en dag om du inte får vård.

@@ -16,6 +16,7 @@ I spelet används en hexkarta där varje hex motsvarar 10 kilometer. Terrängen 
 
 *Farthastighet gäller för marsch/körning utanför väg. På väg gäller alltid ×1.*
 
+Strålningszoner luktar svagt av surströmming och riskerar att ge slumpmässiga mutationer vid längre vistelse.
 ## Skift och reshandlingar
 Ett dygn delas in i fyra skift: morgon, dag, kväll och natt. Under varje skift kan varje rollperson utföra **en** huvudsaklig uppgift. Endast en person kan hålla vakt under ett skift då gruppen marscherar.
 
@@ -117,5 +118,5 @@ Båtar och flottar kan användas för att korsa eller färdas längs vattendrag.
 | 3 | Regn | –1 på alla avståndsattacker och Körning. |
 | 4 | Kraftigt regn | Sikt Kort och alla måste slå Styrka för att fortsätta marschera. |
 | 5 | Kallfront | Sänk temperatur; slag mot köld krävs. |
-| 6 | Strålningsstorm | Alla blottade tar 1 skada och måste söka skydd. |
+| 6 | Strålningsstorm | Dimma som luktar surströmming; alla blottade tar 1 skada och riskerar slumpmässig mutation. |
 

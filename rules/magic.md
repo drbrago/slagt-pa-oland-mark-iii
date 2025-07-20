@@ -44,16 +44,14 @@ Kort avstånd. Tyngre objekt kräver högre nivå. Vid nivå 3 kan du även hål
 motståndare fast. *Kostnad:* 1–3 WP.
 
 ## Strålningsböjning
-Ölands ruiner sjuder av farlig strålning. Vissa individer kan kanalisera den och 
-forma den till vapen eller skydd. Bieffekter kan mutera omgivningen.
+Efter haveriet med "Grön Kärnkraft 2.0" läcker en surströmmingsluktande strålning över Öland. Den blandas med zombiegasen Silex och gör mutationer både slumpmässiga och permanenta. Vissa överlevare har lärt sig vrida denna energi till vapen eller skydd, men riskerar alltid att mutera sin omgivning.
 
 ### Exempel på strålningskrafter
 - **Muterande ljus** – *Aktivering:* Långsam handling. *Effekt:* Målet får en slumpmässig 
 mutation som varar ett skift. På nivå 3 kan den bli permanent. *Kostnad:* 2–3 WP.
 - **Strålningssköld** – *Aktivering:* Snabb handling. *Effekt:* Du eller en allierad 
 får skydd mot strålning motsvarande kraftnivån under en runda. *Kostnad:* 1–2 WP.
-- **Energiurladdning** – *Aktivering:* Långsam handling. *Effekt:* Skjut en radioaktiv 
-projektil som ger skada lika med kraftnivån och riskerar att smitta målet. 
+- **Energiurladdning** – *Aktivering:* Långsam handling. *Effekt:* Skjut en strålningsmättad projektil som ger skada lika med kraftnivån och riskerar att smitta målet.
 *Kostnad:* 1–3 WP.
 
 ## Zombiegaskontroll
