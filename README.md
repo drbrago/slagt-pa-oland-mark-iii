@@ -43,6 +43,6 @@
 - 🧪 Äventyr:
   - [Startäventyr: Signal från Borgholm](adventures/starter-adventure.md)
 
-Välkommen till ett postapokalyptiskt zombie-skräck-rollspel i Sverige. Spelet bygger helt och hållet på reglerna i **Year Zero Engine SRD v1.0** och bjuder på absurda vapen, muterade fiender och en trasig framtid. Detta repo innehåller allt du behöver för att spela spelet i form av markdown-filer.
+Välkommen till ett postapokalyptiskt zombie-skräck-rollspel i Sverige. Spelet bygger helt och hållet på reglerna i **Year Zero Engine SRD v1.0** och bjuder på bisarra och farliga vapen, muterade fiender och en trasig framtid. Detta repo innehåller allt du behöver för att spela spelet i form av markdown-filer.
 
 Allt material är på svenska och fritt att använda under Year Zero Engine-licensen.

@@ -54,15 +54,15 @@ Efter att manövrerna valts slår SL fram ett hinder. Tabellen nedan visar exemp
 | D10 | Hinder |
 |----|--------|
 | 1 | Sensesväng: Bytets Förfölj/Fly, Gömma sig eller Spärra misslyckas automatiskt. |
-| 2 | Matstånd: Bytet måste slå Styrka för att forcera och ta D3 skada vid misslyckande. |
+| 2 | Barrikad av marknadsstånd: Bytet måste slå Styrka för att forcera och tar D3 skada vid misslyckande. |
 | 3 | Fordon/vagn: Ger +2 till Förfölj/Fly och Stanna och skjut men −2 till Genskjuta. |
 | 4 | Folkmassa: Bytet får +2 på Gömma sig och förföljaren måste slå Spaning – misslyckas deras manöver. Missar Stanna och skjut träffar en civil. |
-| 5 | Munkar: Bytet slår Förföra. Lyckas ger +2 på Gömma sig. Misslyckas avbryts manövern. |
+| 5 | Fanatiska kultister: Bytet slår Förföra. Lyckas ger +2 på Gömma sig. Misslyckas avbryts manövern. |
 | 6 | Vakters poliser: −2 på Förfölj/Fly, Gömma sig och Stanna och skjut. Den som skjuter blir attackerad av vakterna. |
-| 7 | Gubbe: Förföljaren måste ge honom pengar eller lyckas med Styrka annars avbryts deras manöver. |
+| 7 | Mutkrävare: Förföljaren måste ge bort något av värde eller lyckas med Styrka annars avbryts deras manöver. |
 | 8 | Skräp: −2 på Förfölj/Fly den här rundan. Spärra får +2. |
 | 9 | Öppet fält: +2 på Stanna och skjut men −2 på Gömma sig. |
-|10 | Busar: D6 busar stoppar bytet. Slå Förföra för att passera. Misslyckas attackeras bytet och manövern misslyckas. Lyckas bytet attackerar busarna förföljaren.
+|10 | Rånargäng: D6 angripare stoppar bytet. Slå Förföra för att passera. Misslyckas attackeras bytet och manövern misslyckas. Lyckas bytet attackerar rånarna förföljaren.
 
 ### Fordonsjaktshinder
 

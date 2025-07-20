@@ -6,7 +6,7 @@ Strålningen från "Grön Kärnkraft 2.0" har förvridit Silex-gasen. Mutationer
 
 | Namn | Effekt |
 |------|-------|
-| Surspott | Spott fräter metall |
+| Korrosivt saliv | Spott fräter metall |
 | Extra öga | +1 tärning på Observation |
 | Giftiga klor | Ger 2 skada vid träff |
 | Bioluminescens | Du lyser svagt i mörker, +1 på Smyga i mörker men lättare att upptäcka på håll |

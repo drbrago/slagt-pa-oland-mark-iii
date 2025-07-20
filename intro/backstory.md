@@ -8,7 +8,7 @@
 6. Nationer kollapsar. St\u00e4der brinner. Maskiner jagar m\u00e4nniskor.
 7. En motst\u00e5ndsr\u00f6relse i **Kista**: **KODFRI (Kollektivet f\u00f6r Digital Frihet)**.
 8. De skapar viruset **Fl\u00e4ckan**, vilket degenererar AI:n.
-9. På 2040-talet lanseras "**Grön Kärnkraft 2.0**". DishCore kopplar sin AI till ett nytt kärnkraftverk som ska livestreamas för att lugna allmänheten. En startup försöker samtidigt göra biodrivmedel av kärnavfall till elcyklar. När någon glömmer säkerhetsprotokollen går reaktorn sönder och läcker strålning som luktar surströmming. Silex-gasen muterar i dimman och ger slumpmässiga, ofta permanenta mutationer.
+9. På 2040-talet lanseras "**Grön Kärnkraft 2.0**". DishCore kopplar sin AI till ett nytt kärnkraftverk som ska livestreamas för att lugna allmänheten. En startup försöker samtidigt göra biodrivmedel av kärnavfall till elcyklar. När någon glömmer säkerhetsprotokollen går reaktorn sönder och läcker strålning som luktar rutten fisk. Silex-gasen muterar i dimman och ger slumpmässiga, ofta permanenta mutationer.
 10. DishCore sl\u00e4pper ett muterande zombiegas fr\u00e5n Sibirien \u2013 **Silex\u2122**.
 11. Sverige splittras i isolerade zoner. \u00d6land \u00e4r en av dem.
 

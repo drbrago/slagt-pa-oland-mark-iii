@@ -44,7 +44,7 @@ Kort avstånd. Tyngre objekt kräver högre nivå. Vid nivå 3 kan du även hål
 motståndare fast. *Kostnad:* 1–3 WP.
 
 ## Strålningsböjning
-Efter haveriet med "Grön Kärnkraft 2.0" läcker en surströmmingsluktande strålning över Öland. Den blandas med zombiegasen Silex och gör mutationer både slumpmässiga och permanenta. Vissa överlevare har lärt sig vrida denna energi till vapen eller skydd, men riskerar alltid att mutera sin omgivning.
+Efter haveriet med "Grön Kärnkraft 2.0" läcker en frän, fiskluktande strålning över Öland. Den blandas med zombiegasen Silex och gör mutationer både slumpmässiga och permanenta. Vissa överlevare har lärt sig vrida denna energi till vapen eller skydd, men riskerar alltid att mutera sin omgivning.
 
 ### Exempel på strålningskrafter
 - **Muterande ljus** – *Aktivering:* Långsam handling. *Effekt:* Målet får en slumpmässig 

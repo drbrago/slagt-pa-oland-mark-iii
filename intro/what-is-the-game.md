@@ -6,4 +6,4 @@
 
 - Kampen mot maskiner och odöda
 - Utforskning av en trasig men igenkännbar miljö
-- Skapa egna absurda vapen med Gimmick-systemet
+- Skapa egna bisarra och farliga vapen med Gimmick-systemet

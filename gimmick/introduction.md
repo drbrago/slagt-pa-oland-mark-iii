@@ -1,6 +1,6 @@
 # Gimmick-systemet
 
-Gimmicks är galna hembyggda vapen och prylar. Spelare kan samla delar och skapa allt från motorsågsgevär till solcellsdrivna brödrostar med dolda knivar.
+Gimmicks är bisarra hembyggda vapen och prylar. Spelare kan samla delar och skapa allt från motorsågsgevär till solcellsdrivna apparater med dolda blad.
 
 ## Hur det fungerar
 
