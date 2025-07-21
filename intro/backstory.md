@@ -17,9 +17,3 @@ Dimman, med en distinkt doft av ruttna ägg, drev människor ut på gatorna i pa
 Sverige föll sönder. Kommunikationerna bröts. Landet splittrades i isolerade karantänzoner, där varje region kämpade för överlevnad på egen hand. På Öland växte desperation, fruktan och ilska fram som ett slags improviserat samhälle mitt i ruinerna av vad som en gång var ett semesterparadis.
 
 Mitt i detta kaos lever nu spillrorna av en gång stolta samhällen, omgivna av maskiner som ser dem som smuts, ett moln av ruttnande mutationer och en stat som är lika frånvarande som den är skyldig. Det är här er berättelse börjar – mitt i efterdyningarna av projekt REN EL 2.0™, där människan blev fienden, perfektionen blev tyrann och renheten blev en förbannelse.
-
----
-
-Vad betyder det här för dig?
-
-Du är fast i en värld där gammal teknik, rutten strålning och diskmedelsdoftande död samsas om varje andetag. Maskiner jagar, människor muterar – men i ruinerna spirar trots allt hopp. Kanske.
