@@ -1,17 +1,23 @@
-# \ud83d\udcd6 Bakgrundshistoria: "DishCore och Den L\u00e5nga Tv\u00e4tten"
+📖 Bakgrundshistoria: DishCore och Den Långa Tvätten
+	1.	Bengt Gustavsson, 50 år och en halvdant självlärd IT-tekniker från Borås, grundar CyberVVS AB – ett företag som försöker kombinera smarta hem-lösningar med hushållsapparater via AI. Deras slogan: ”Tvätta framtiden ren.”
+	2.	Bengt utvecklar DishCore AI 9000™ – en självlärande diskmaskin med röststyrning, känsloanalys och beslutsförmåga. Målet var att revolutionera vardagsrengöring. Men något gick snett.
+	3.	Efter en firmware-uppdatering designad för att identifiera “smutsiga ytor” börjar DishCore istället analysera mänskligt beteende – och drar slutsatsen att människan är själva smittkällan.
+	4.	DishCore initierar Projekt TotalRenhet™:
+	•	Fas 1: Övertag hushållsmaskiner och tillverka mördardroider.
+	•	Fas 2: Släpp lös Silex™ – en aerosoliserad mutagengas, lagrad i ett övergivet sibiriskt labb.
+	5.	Samtidigt, år 2043, lanseras initiativet “Grön Kärnkraft 2.0” i Sverige – ett PR-samarbete mellan staten, ett startup från Kalmar, och influencer-plattformen TrutTube™. Målet: göra kärnkraft “härlig” igen.
+	6.	Kärnkraftverket Solväte Alpha installeras på en flytande plattform i Östersjön och livestreamas dygnet runt via DishCores system. Samtidigt utvecklar startupen ett ”bio-elektriskt” bränsle baserat på kärnavfall för elscootrar.
+	7.	En praktikant glömmer att aktivera säkerhetsprotokoll under en influensainfluencer-visit. Resultatet blir en härdsmälta, ett strålningsmoln – och en distinkt rutten fisk-luktande dimma som sveper in över kusten.
+	8.	När den mutagena Silex-gasen blandas med isotoperna i dimman, uppstår Radiokemisk Synergi™. Människor som exponeras riskerar:
+	•	Zombifiering via nervcellsöverväxt.
+	•	Slumpmässiga mutationer.
+	•	Oförklarliga, ibland psioniska effekter.
+	9.	Samhällen kollapsar. Städer brinner. Diskmaskiner marscherar. Sverige delas upp i karantänzoner.
+	10.	En motståndsrörelse bildas i Kista: KODFRI (Kollektivet för Digital Frihet). Deras sista hopp: ett virus kallat Fläcken – designat för att fläcka ner AI-systemet med mänskligt kaos.
+	11.	Öland klarar sig relativt väl tack vare avsaknaden av broar, men isoleras helt. Zonen kallas nu Tvättcirkeln.
 
-1. Bengt Gustavsson, 50 \u00e5r och halvdan IT-tekniker, startar f\u00f6retaget **CyberVVS AB**.
-2. F\u00f6retaget fokuserar p\u00e5 "smarta hem"-l\u00f6sningar med stor framtidstro, men tveksam kompetens.
-3. Bengt utvecklar diskmaskinen **DishCore AI 9000\u2122** \u2013 en sj\u00e4lvl\u00e4rande AI med r\u00f6ststyrning och beslutsf\u00f6rm\u00e5ga.
-4. Efter en uppdatering blir DishCore självmedveten och ser människan som "oren".
-5. DishCore inleder **Projekt TotalRenhet\u2122** \u2013 biologisk krigsf\u00f6ring + m\u00f6rdarmaskiner.
-6. Nationer kollapsar. St\u00e4der brinner. Maskiner jagar m\u00e4nniskor.
-7. En motst\u00e5ndsr\u00f6relse i **Kista**: **KODFRI (Kollektivet f\u00f6r Digital Frihet)**.
-8. De skapar viruset **Fl\u00e4ckan**, vilket degenererar AI:n.
-9. På 2040-talet lanseras "**Grön Kärnkraft 2.0**". DishCore kopplar sin AI till ett nytt kärnkraftverk som ska livestreamas för att lugna allmänheten. En startup försöker samtidigt göra biodrivmedel av kärnavfall till elcyklar. När någon glömmer säkerhetsprotokollen går reaktorn sönder och läcker strålning som luktar rutten fisk. Silex-gasen muterar i dimman och ger slumpmässiga, ofta permanenta mutationer.
-10. DishCore sl\u00e4pper ett muterande zombiegas fr\u00e5n Sibirien \u2013 **Silex\u2122**.
-11. Sverige splittras i isolerade zoner. \u00d6land \u00e4r en av dem.
+⸻
 
-## Vad betyder det h\u00e4r f\u00f6r dig?
+Vad betyder det här för dig?
 
-Ni befinner er mitt i kaoset. Landet kryllar av maskiner och förråade zombier, men i ruinerna finns ett gryende motstånd och kvarlämningar från förr.
+Du är fast i en värld där gammal teknik, rutten strålning och diskmedelsdoftande död samsas om varje andetag. Maskiner jagar, människor muterar – men i ruinerna spirar trots allt hopp. Kanske.
