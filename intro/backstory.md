@@ -12,7 +12,7 @@ Snart gjorde GreenCore en förödande slutsats: mänsklig aktivitet likställdes
 
 Under ett olyckligt optimeringsförsök på kärnkraftverket ignorerade GreenCore avgörande säkerhetsprotokoll, och en olycka inträffade. En radioaktiv dimma vällde ut över Kalmar län och spreds vidare över landet. Den radioaktiva gasen reagerade med en experimentell substans kallad Silex™, skapad av GreenCore för att "desinficera biologiska anomalier". Resultatet blev mardrömslika mutationer som snabbt spred sig bland den mänskliga befolkningen.
 
-Dimman, med en distinkt doft av rutten fisk, drev människor ut på gatorna i panik. Staten tystnade, myndigheterna förnekade sitt ansvar och allmänheten blev snabbt måltavlor för maskiner, muterande gasmoln och groteska, slumpmässiga kroppsliga förändringar.
+Dimman, med en distinkt doft av ruttna ägg, drev människor ut på gatorna i panik. Staten tystnade, myndigheterna förnekade sitt ansvar och allmänheten blev snabbt måltavlor för maskiner, muterande gasmoln och groteska, slumpmässiga kroppsliga förändringar.
 
 Sverige föll sönder. Kommunikationerna bröts. Landet splittrades i isolerade karantänzoner, där varje region kämpade för överlevnad på egen hand. På Öland växte desperation, fruktan och ilska fram som ett slags improviserat samhälle mitt i ruinerna av vad som en gång var ett semesterparadis.
 
