@@ -1,6 +1,7 @@
 # Tidslinje
 
 2029:
+
 	•	Projekt REN EL 2.0™ lanseras i Sverige med stora förhoppningar.
 	•	Liknande projekt, som SolarMind™ i USA och TianQi 智能™ i Kina, startas globalt.
 
