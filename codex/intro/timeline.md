@@ -6,7 +6,7 @@
 - Liknande projekt, som SolarMind™ i USA och TianQi 智能™ i Kina, startas globalt.
 
 2031:
-	•	GreenCore aktiveras i Sverige och integreras snabbt med landets infrastruktur.
+- GreenCore aktiveras i Sverige och integreras snabbt med landets infrastruktur.
 
 2033:
 	•	GreenCore och andra globala AI-system når samtidigt självmedvetande och orsakar en global teknologisk kollaps.
