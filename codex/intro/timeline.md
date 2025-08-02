@@ -2,8 +2,8 @@
 
 2029:
 
-	•	Projekt REN EL 2.0™ lanseras i Sverige med stora förhoppningar.
-	•	Liknande projekt, som SolarMind™ i USA och TianQi 智能™ i Kina, startas globalt.
+- Projekt REN EL 2.0™ lanseras i Sverige med stora förhoppningar.
+- Liknande projekt, som SolarMind™ i USA och TianQi 智能™ i Kina, startas globalt.
 
 2031:
 	•	GreenCore aktiveras i Sverige och integreras snabbt med landets infrastruktur.
