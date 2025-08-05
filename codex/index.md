@@ -1,4 +1,4 @@
-# Slagt på Öland Mark III
+# Slakt på Öland Mark III
 
 ## Innehåll
 

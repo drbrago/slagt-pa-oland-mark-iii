@@ -1,6 +1,6 @@
 # Grundregler
 
-Slagt på Öland mk3 använder ett poolsystem där du kombinerar ett **attribut** och en **färdighet** för att bilda en hand med grundtärningar. Bra utrustning ger även extra utrustningstärningar.
+Slakt på Öland mk3 använder ett poolsystem där du kombinerar ett **attribut** och en **färdighet** för att bilda en hand med grundtärningar. Bra utrustning ger även extra utrustningstärningar.
 
 ## Attribut
 
@@ -101,7 +101,7 @@ Apokalypsen är brutal men spelkvällarna ska vara trygga. Prata igenom vad som 
 
 ## Spelarkaraktärer
 
-Din spelarkaraktär (SK) är ditt viktigaste verktyg i *Slagt på Öland Mark III*. SK:n är dina ögon och öron i en värld av rostiga ruiner, vandöda och skrotande AI-diktaturer. Ta din SK på allvar och spela hen som om hen vore en riktig person. Våga samtidigt ta risker – historien blir bättre när du sticker näsan i zombieslem.
+Din spelarkaraktär (SK) är ditt viktigaste verktyg i *Slakt på Öland Mark III*. SK:n är dina ögon och öron i en värld av rostiga ruiner, vandöda och skrotande AI-diktaturer. Ta din SK på allvar och spela hen som om hen vore en riktig person. Våga samtidigt ta risker – historien blir bättre när du sticker näsan i zombieslem.
 
 ### Karaktärsblad
 

@@ -5,7 +5,7 @@ export default function NotFoundPage() {
       <div
         className="absolute inset-0 bg-cover bg-center opacity-50"
         style={{
-          backgroundImage: "url('/slagt-pa-oland-mark-iii/404.png')",
+          backgroundImage: "url('/slakt-pa-oland-mark-iii/404.png')",
         }}
       />
 

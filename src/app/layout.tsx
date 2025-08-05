@@ -13,7 +13,7 @@ const robotoSlab = Roboto_Slab({
 });
 
 export const metadata: Metadata = {
-  title: "Slagt på Öland Mark III",
+  title: "Slakt på Öland Mark III",
   description:
     "Ett surrealistiskt postapokalyptiskt zombie-skräck-rollspel i Sverige, byggt på Year Zero Engine (Fria Ligan open source).",
 };

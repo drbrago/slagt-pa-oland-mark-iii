@@ -7,7 +7,7 @@ export default function HomePage() {
       {/* Red Header Bar */}
       <div className="text-center font-logo bg-blood mt-8 w-full py-8 px-6">
         <h1 className="translate-y-2 text-center text-wheat text-4xl md:text-6xl lg:text-8xl font-bold tracking-wide">
-          SLAGT PÅ ÖLAND MK3™
+          SLAKT PÅ ÖLAND MK3™
         </h1>
       </div>
 
@@ -21,7 +21,7 @@ export default function HomePage() {
       {/* Hero Graphic */}
       <div className="mt-12">
         <Image
-          src="/slagt-pa-oland-mark-iii/hero.png" // Replace with your real image path
+          src="/slakt-pa-oland-mark-iii/hero.png" // Replace with your real image path
           alt="Silhouetted soldier or Öland survivor"
           width={1024}
           height={1031}
@@ -31,7 +31,7 @@ export default function HomePage() {
       {/* Introduction */}
       <div className="mt-12 px-4 max-w-2xl text-center">
         <p className="text-wheat text-lg font-hero mb-4">
-          Slagt på Öland Mark III™ är ett rollspel som tar dig med på en resa
+          Slakt på Öland Mark III™ är ett rollspel som tar dig med på en resa
           genom en postapokalyptisk värld där Öland har förvandlats till en
           ödemark. Utforska ruinerna av det förflutna, möt farliga fiender och
           kämpa för överlevnad i en värld där varje beslut räknas.
@@ -62,7 +62,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="mt-auto py-6 text-sm text-zinc-500">
-        &copy; 2025 drbrago. Slagt på Öland Mark III.
+        &copy; 2025 drbrago. Slakt på Öland Mark III.
       </footer>
     </main>
   );
