@@ -2,6 +2,7 @@ import { getMarkdownContent } from "@/lib/markdown";
 import ReactMarkdown from "react-markdown";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { NotFoundError } from "@/lib/errors";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -19,14 +20,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function Page({ params }: Props) {
   const { slug } = await params;
-  console.log("Page slug:", slug);
   const path = Array.isArray(slug) ? slug.join("/") : slug;
 
   let content;
   try {
     content = getMarkdownContent(`${path}`);
-  } catch {
-    notFound();
+  } catch (error) {
+    if (error instanceof NotFoundError) {
+      notFound();
+    }
+
+    throw error; // Re-throw unexpected errors
   }
 
   const { frontmatter, markdown } = content;
