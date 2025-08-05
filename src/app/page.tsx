@@ -21,7 +21,7 @@ export default function HomePage() {
       {/* Hero Graphic */}
       <div className="mt-12">
         <Image
-          src="/hero.png" // Replace with your real image path
+          src="/slagt-pa-oland-mark-iii/hero.png" // Replace with your real image path
           alt="Silhouetted soldier or Öland survivor"
           width={1024}
           height={1031}
