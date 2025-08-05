@@ -3,6 +3,7 @@ import ReactMarkdown from "react-markdown";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { NotFoundError } from "@/lib/errors";
+import LeftMenu from "@/app/components/LeftMenu";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -36,14 +37,19 @@ export default async function Page({ params }: Props) {
   const { frontmatter, markdown } = content;
 
   return (
-    <div className="prose lg:prose-xl mx-auto px-4 py-8">
-      {frontmatter?.title && (
-        <h1 className="text-3xl font-bold">{frontmatter.title}</h1>
-      )}
-      {frontmatter?.updated && (
-        <p className="text-sm text-gray-500">Updated: {frontmatter.updated}</p>
-      )}
-      <ReactMarkdown>{markdown}</ReactMarkdown>
+    <div className="flex">
+      <LeftMenu />
+      <div className="prose lg:prose-xl mx-auto px-4 py-8">
+        {frontmatter?.title && (
+          <h1 className="text-3xl font-bold">{frontmatter.title}</h1>
+        )}
+        {frontmatter?.updated && (
+          <p className="text-sm text-gray-500">
+            Updated: {frontmatter.updated}
+          </p>
+        )}
+        <ReactMarkdown>{markdown}</ReactMarkdown>
+      </div>
     </div>
   );
 }
