@@ -12,6 +12,8 @@ type MenuSection = {
   items: MenuItem[];
 };
 
+export const dynamic = "force-dynamic";
+
 export async function GET() {
   try {
     const codexPath = path.join(process.cwd(), "codex");
