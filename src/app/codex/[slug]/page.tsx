@@ -3,8 +3,6 @@ import ReactMarkdown from "react-markdown";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { NotFoundError } from "@/lib/errors";
-import Menu from "@/app/components/Menu";
-import MenuToggler from "@/app/components/MenuToggler";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -32,26 +30,20 @@ export default async function Page({ params }: Props) {
       notFound();
     }
 
-    throw error; // Re-throw unexpected errors
+    throw error;
   }
 
   const { frontmatter, markdown } = content;
 
   return (
-    <>
-      <MenuToggler />
-      {false && <Menu />}
-      <div className="prose lg:prose-xl mx-auto px-4 py-8">
-        {frontmatter?.title && (
-          <h1 className="text-3xl font-bold">{frontmatter.title}</h1>
-        )}
-        {frontmatter?.updated && (
-          <p className="text-sm text-gray-500">
-            Updated: {frontmatter.updated}
-          </p>
-        )}
-        <ReactMarkdown>{markdown}</ReactMarkdown>
-      </div>
-    </>
+    <div className="prose lg:prose-xl mx-auto px-4 py-8">
+      {frontmatter?.title && (
+        <h1 className="text-3xl font-bold">{frontmatter.title}</h1>
+      )}
+      {frontmatter?.updated && (
+        <p className="text-sm text-gray-500">Updated: {frontmatter.updated}</p>
+      )}
+      <ReactMarkdown>{markdown}</ReactMarkdown>
+    </div>
   );
 }
