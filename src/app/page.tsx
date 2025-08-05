@@ -1,95 +1,69 @@
 import Image from "next/image";
-import styles from "./page.module.css";
+import Link from "next/link";
 
-export default function Home() {
+export default function HomePage() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol>
-          <li>
-            Get started by editing <code>src/app/page.tsx</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <main className="min-h-screen bg-black text-white flex flex-col items-center">
+      {/* Red Header Bar */}
+      <div className="text-center font-logo bg-blood mt-8 w-full py-8 px-6">
+        <h1 className="translate-y-2 text-center text-wheat text-4xl md:text-6xl lg:text-8xl font-bold tracking-wide">
+          SLAGT PÅ ÖLAND MK3™
+        </h1>
+      </div>
 
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.secondary}
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className={styles.footer}>
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+      {/* Subtitle */}
+      <div className="mt-6 px-4">
+        <h2 className="text-center text-xl text-wheat font-hero md:text-2xl lg:text-4xl tracking-widest font-semibold uppercase">
+          Ett rollspel om Ölands undergång
+        </h2>
+      </div>
+
+      {/* Hero Graphic */}
+      <div className="mt-12">
+        <Image
+          src="/hero.png" // Replace with your real image path
+          alt="Silhouetted soldier or Öland survivor"
+          width={1024}
+          height={1031}
+        />
+      </div>
+
+      {/* Introduction */}
+      <div className="mt-12 px-4 max-w-2xl text-center">
+        <p className="text-wheat text-lg font-hero mb-4">
+          Slagt på Öland Mark III™ är ett rollspel som tar dig med på en resa
+          genom en postapokalyptisk värld där Öland har förvandlats till en
+          ödemark. Utforska ruinerna av det förflutna, möt farliga fiender och
+          kämpa för överlevnad i en värld där varje beslut räknas.
+        </p>
+      </div>
+
+      {/* Navigation / CTA */}
+      <div className="text-wheat mt-12 flex flex-col md:flex-row gap-4 text-center">
+        <Link
+          href="codex/setting"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+          Utforska Världen
+        </Link>
+        <Link
+          href="codex/rules"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+          Läs Reglerna
+        </Link>
+        <Link
+          href="codex/characters"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
+          Skapa Karaktär
+        </Link>
+      </div>
+
+      {/* Footer */}
+      <footer className="mt-auto py-6 text-sm text-zinc-500">
+        &copy; 2025 drbrago. Slagt på Öland Mark III.
       </footer>
-    </div>
+    </main>
   );
 }

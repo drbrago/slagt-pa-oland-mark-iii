@@ -1,2 +1,11 @@
 @import "tailwindcss";
-@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-blood: oklch(0.5054 0.1905 27.52);
+  --color-wheat: oklch(0.9473 0.0295 80.66);
+
+  --font-logo: "Roboto", sans-serif;
+  --font-hero: "Roboto Slab", serif;
+}
+
+@import "./typography.css";
