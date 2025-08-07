@@ -43,7 +43,7 @@ Stress gör dig pressad men kan även trigga särskilda talanger.
 
 ### Exempel
 
-Lisa försöker laga sitt Gimmick-vapen medan zombier bankar på dörren. Hon har Skärpa 2, Teknik 2 och ett verktygsbälte (+1 utrustningstärning). Efter ett misslyckat första slag pushar hon. Två sexor räddar situationen men hennes bälte går sönder på grund av en etta och hon får en stresspoäng.
+Lisa försöker laga sitt slaktsystem medan zombier bankar på dörren. Hon har Skärpa 2, Teknik 2 och ett verktygsbälte (+1 utrustningstärning). Efter ett misslyckat första slag pushar hon. Två sexor räddar situationen men hennes bälte går sönder på grund av en etta och hon får en stresspoäng.
 
 Stellan försöker i smyg bygga ett zombiedödande verktyg av ett trasigt badkar. Han rullar Skärpa 3 + Teknik 1. Spelledaren låter honom slå ett test varje skift. Efter två skift och flera pushade slag har Stellan ett rangligt men fungerande badkarsbatteri som spottar eld.
 
@@ -65,7 +65,7 @@ Spelledaren bestämmer aldrig hur äventyret ska sluta – det får spelet avgö
 - **Risker och belöningar** – du kan alltid pusha, men stress och trasig utrustning lurar bakom hörnet.
 - **Spelarfokus** – överlevarna är huvudpersonerna, medan zombier och rivaler sköts smidigt av spelledaren.
 - **Berättelsedrivet** – tärningarna driver historien framåt och ger oväntade vändningar.
-- **Flexibelt** – systemet tål både Gimmick-vapen och AI-hack utan större justeringar.
+- **Flexibelt** – systemet tål både slaktsystem och AI-hack utan större justeringar.
 
 ## Tärningstyper
 
@@ -105,7 +105,7 @@ Din spelarkaraktär (SK) är ditt viktigaste verktyg i *Slakt på Öland Mark II
 
 ### Karaktärsblad
 
-Du behöver ett karaktärsblad för att hålla reda på attribut, färdigheter och all utrustning som hänger på din rygg. Detta SRD ger inget färdigt blad, men spelet gör det. Allt från Gimmick-vapen till stresspoäng hör hemma där.
+Du behöver ett karaktärsblad för att hålla reda på attribut, färdigheter och all utrustning som hänger på din rygg. Detta SRD ger inget färdigt blad, men spelet gör det. Allt från slaktsystem till stresspoäng hör hemma där.
 
 ### Attribut
 
