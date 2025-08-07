@@ -41,22 +41,28 @@ export default function HomePage() {
       {/* Navigation / CTA */}
       <div className="text-wheat mt-12 flex flex-col md:flex-row gap-4 text-center">
         <Link
-          href="codex/setting"
+          href="/codex/setting"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
           Utforska Världen
         </Link>
         <Link
-          href="codex/rules"
+          href="/codex/rules"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
           Läs Reglerna
         </Link>
         <Link
-          href="codex/characters"
+          href="/codex/characters"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
           Skapa Karaktär
+        </Link>
+        <Link
+          href="/codex/slaktsystem"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
+        >
+          Slaktsystem
         </Link>
       </div>
 
