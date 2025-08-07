@@ -44,25 +44,25 @@ export default function HomePage() {
           href="/codex/setting"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          Utforska Världen
+          Utforska världen
         </Link>
         <Link
           href="/codex/rules"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          Läs Reglerna
+          Läs reglerna
         </Link>
         <Link
           href="/codex/characters"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          Skapa Karaktär
+          Skapa karaktär
         </Link>
         <Link
           href="/codex/gm-guide"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          Spelledarguiden
+          Spelledarens guide
         </Link>
         <Link
           href="/codex/slaktsystem"
@@ -74,7 +74,7 @@ export default function HomePage() {
           href="/codex/threats"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
-          Hot & Faror
+          Hot & faror
         </Link>
         <Link
           href="/codex/adventures"
