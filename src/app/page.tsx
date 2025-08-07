@@ -39,7 +39,7 @@ export default function HomePage() {
       </div>
 
       {/* Navigation / CTA */}
-      <div className="text-wheat mt-12 flex flex-col md:flex-row gap-4 text-center">
+      <div className="text-wheat mt-12 flex flex-wrap flex-col md:flex-row gap-4 text-center px-6 justify-center">
         <Link
           href="/codex/setting"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
@@ -59,10 +59,28 @@ export default function HomePage() {
           Skapa Karaktär
         </Link>
         <Link
+          href="/codex/gm-guide"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
+        >
+          Spelledarguiden
+        </Link>
+        <Link
           href="/codex/slaktsystem"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
           Slaktsystem
+        </Link>
+        <Link
+          href="/codex/threats"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
+        >
+          Hot & Faror
+        </Link>
+        <Link
+          href="/codex/adventures"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
+        >
+          Äventyr
         </Link>
       </div>
 
