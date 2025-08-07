@@ -29,13 +29,13 @@
   - [Zombier](threats/zombies.md)
   - [Mutationer](threats/mutations.md)
   - [Slumpmötestabeller](threats/encounter-tables.md)
-- 🔧 Gimmick-systemet:
-  - [Gimmick-systemet](gimmick/introduction.md)
-  - [Regler för Gimmicks](gimmick/gimmick-rules.md)
-  - [Gimmick-ritningar](gimmick/blueprints.md)
-  - [Byggtabeller](gimmick/crafting-tables.md)
-  - [Vapenkomponenter](gimmick/weapon-parts.md)
-  - [Slumpinspiration](gimmick/random-inspiration.md)
+- 🔧 Slaktsystemet:
+  - [Introduktion](slaktsystem/slaktsystem-introduction.md)
+  - [Regler](slaktsystem/slaktsystem-rules.md)
+  - [Ritningar](slaktsystem/slaktsystem-blueprints.md)
+  - [Byggtabeller](slaktsystem/slaktsystem-crafting-tables.md)
+  - [Vapenkomponenter](slaktsystem/slaktsystem-weapon-parts.md)
+  - [Slumpinspiration](slaktsystem/slaktsystem-random-inspiration.md)
 - 🎲 Spelledartips:
   - [Så leder du spelet](gm-guide/how-to-run.md)
   - [Äventyrskrokar](gm-guide/adventure-hooks.md)

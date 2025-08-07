@@ -14,7 +14,7 @@ Nedanstående tolv färdigheter täcker det mesta du försöker göra. Varje fä
 | **Skytte** | Rörlighet | Hantera gevär, armborst och improviserade kanoner |
 | **Rörlighet** | Rörlighet | Smyga, klättra och kasta sig över skräp |
 | **Fältsmyg** | Rörlighet | Gå osedd bland ruiner och vakter |
-| **Hantverk** | Skärpa | Laga prylar och fixa gimmicks |
+| **Hantverk** | Skärpa | Laga prylar och fixa slaktsystem |
 | **Spaning** | Skärpa | Upptäcka fällor och bakhåll |
 | **Överlevnad** | Skärpa | Hitta vatten och väg genom zonen |
 | **Läkekonst** | Själ | Lappa ihop sår och feber |

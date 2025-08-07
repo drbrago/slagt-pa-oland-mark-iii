@@ -12,7 +12,7 @@ Spelarna hör ett gurglande vrål. Två skriande zombier anfaller mellan raserad
 
 ## Scen 3: Sändarens hemlighet
 
-Bakom ett raserat bibliotek finner de en hembyggd radiosändare och en Gimmick: **DammSyra 2000**. För att reparera sändaren krävs ett lyckat Teknologi-slag.
+Bakom ett raserat bibliotek finner de en hembyggd radiosändare och ett slaktsystem: **DammSyra 2000**. För att reparera sändaren krävs ett lyckat Teknologi-slag.
 
 ### Framgång
 
@@ -20,4 +20,4 @@ Lyckas de få igång sändaren hör de en röst från KODFRI som vill mötas. Gr
 
 ### Misslyckande
 
-Misslyckas de med tekniken utbryter mer oväsen och fler zombier strömmer till. De måste fly eller gömma sig och riskerar att förlora den funna Gimmicken.
+Misslyckas de med tekniken utbryter mer oväsen och fler zombier strömmar till. De måste fly eller gömma sig och riskerar att förlora det funna slaktsystemet.
