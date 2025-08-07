@@ -12,7 +12,7 @@ const MenuToggler: React.FC = () => {
   return (
     <button
       onClick={toggleMenu}
-      className="bg-black border-gray-800 border-2 text-white p-2 rounded flex items-center sticky top-4 left-4"
+      className="bg-ink border-gray-800 border-2 text-white p-2 rounded flex items-center sticky top-4 left-4"
       aria-label={isVisible ? "Hide Menu" : "Show Menu"}
     >
       {isVisible ? (

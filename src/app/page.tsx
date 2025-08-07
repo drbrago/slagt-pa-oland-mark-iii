@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen bg-black text-white flex flex-col items-center">
+    <main className="min-h-screen text-white flex flex-col items-center">
       {/* Red Header Bar */}
       <div className="text-center font-logo bg-blood mt-8 w-full py-8 px-6">
         <h1 className="translate-y-2 text-center text-wheat text-4xl md:text-6xl lg:text-8xl font-bold tracking-wide">

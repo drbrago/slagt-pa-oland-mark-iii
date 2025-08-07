@@ -25,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="sv" className={`${bebasNeue.variable} ${robotoSlab.variable}`}>
-      <body className="bg-black">{children}</body>
+      <body className="bg-ink">{children}</body>
     </html>
   );
 }
