@@ -1,7 +1,13 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
+import rehypeSanitize from "rehype-sanitize";
+import rehypeStringify from "rehype-stringify";
+import remarkParse from "remark-parse";
+import remarkRehype from "remark-rehype";
+import { unified } from "unified";
 import { NotFoundError } from "./errors";
+import remarkGfm from "remark-gfm";
 
 export type Frontmatter = {
   title?: string;
@@ -13,7 +19,9 @@ export type MarkdownContent = {
   markdown: string;
 };
 
-export function getMarkdownContent(filePath: string): MarkdownContent {
+export async function getMarkdownContent(
+  filePath: string
+): Promise<MarkdownContent> {
   const basePath = path.join(process.cwd(), "codex", filePath);
   let fullPath: string;
 
@@ -30,9 +38,16 @@ export function getMarkdownContent(filePath: string): MarkdownContent {
 
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
+  const file = await unified()
+    .use(remarkParse)
+    .use(remarkGfm)
+    .use(remarkRehype)
+    .use(rehypeSanitize)
+    .use(rehypeStringify)
+    .process(content);
 
   return {
     frontmatter: data as Frontmatter,
-    markdown: content,
+    markdown: String(file),
   };
 }

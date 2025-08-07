@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const path = Array.isArray(slug) ? slug.join("/") : slug;
 
-  const { frontmatter } = getMarkdownContent(`${path}`);
+  const { frontmatter } = await getMarkdownContent(`${path}`);
   return {
     title: frontmatter?.title || "Rules",
   };
@@ -56,7 +56,7 @@ export default async function Page({ params }: Props) {
 
   let content;
   try {
-    content = getMarkdownContent(`${path}`);
+    content = await getMarkdownContent(`${path}`);
   } catch (error) {
     if (error instanceof NotFoundError) {
       notFound();
@@ -68,14 +68,17 @@ export default async function Page({ params }: Props) {
   const { frontmatter, markdown } = content;
 
   return (
-    <div className="prose lg:prose-xl mx-auto px-4 py-8">
+    <>
       {frontmatter?.title && (
         <h1 className="text-3xl font-bold">{frontmatter.title}</h1>
       )}
       {frontmatter?.updated && (
         <p className="text-sm text-gray-500">Updated: {frontmatter.updated}</p>
       )}
-      <ReactMarkdown>{markdown}</ReactMarkdown>
-    </div>
+      <div
+        className="prose lg:prose-xl mx-auto px-4 py-8"
+        dangerouslySetInnerHTML={{ __html: markdown }}
+      />
+    </>
   );
 }
