@@ -7,7 +7,6 @@ Välkommen till regelsidan för Slakt på Öland mk3! Nedan hittar du en lista �
 - [Combat](./rules/combat)
 - [Gear and Skills](./rules/gear-and-skills)
 - [Hazards](./rules/hazards)
-- [Magic](./rules/magic)
 - [Mounts](./rules/mounts)
 - [Skills and Pushes](./rules/skills-and-pushes)
 - [Specialties](./rules/specialties)

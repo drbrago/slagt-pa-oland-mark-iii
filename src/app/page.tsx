@@ -65,6 +65,12 @@ export default function HomePage() {
           Spelledarens guide
         </Link>
         <Link
+          href="/codex/powers"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
+        >
+          Övernaturliga krafter
+        </Link>
+        <Link
           href="/codex/slaktsystem"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
