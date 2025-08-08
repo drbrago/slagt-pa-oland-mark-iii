@@ -39,7 +39,7 @@ Följande listor är exempel och kan byggas ut efter behov.
 - **Katastrofläkare:** +1 på Läkekonst när du stoppar en dödlig blödning.
 - **Skrotmek:** Bygg eller laga vapen med +1 på Hantverk.
 - **Fältsnickare:** Res upp ett skydd eller barrikad snabbt. Tar halva tiden.
-- **Kodknäckare:** +1 på Teknologi för att hacka gammal utrustning.
+- **Kodknäckare:** +1 på Teknologi för att göra dataintrång på gammal utrustning.
 
 ### 🎶 Sociala & kulturella färdigheter
 - **Zonsångare:** +1 på övertalning när du sjunger eller spelar.

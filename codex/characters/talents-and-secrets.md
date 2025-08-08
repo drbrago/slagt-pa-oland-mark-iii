@@ -7,7 +7,7 @@ Talanger gör varje karaktär unik och ger särskilda fördelar.
 | Talang | Effekt |
 |--------|--------|
 | Monsterkok | Laga mat på muterat kött utan risk. |
-| Kodknackare | +2 tärningar när du hackar gammal elektronik. |
+| Kodknackare | +2 tärningar när du gör dataintrång i gammal elektronik. |
 | Tyst steg | +1 på Smyga i stadsmiljö. |
 
 ## Mörka hemligheter

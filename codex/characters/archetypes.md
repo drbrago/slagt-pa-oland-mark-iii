@@ -6,7 +6,7 @@ Nedan följer fyra exempelarketyper som spelare kan välja.
 
 - **Nyckelattribut:** Skärpa
 - **Startutrustning:** stekpanna, kryddkit, ryggsäck
-- **Rekommenderade talanger:** Monsterkok, Snabb Hackning
+- **Rekommenderade talanger:** Monsterkock, Snabb hackning
 - **Rollspelsförslag:** Laga allt du hittar, hur oaptitligt det än verkar.
 
 ## Dataknäppare

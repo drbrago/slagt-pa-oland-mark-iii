@@ -65,7 +65,7 @@ Spelledaren bestämmer aldrig hur äventyret ska sluta – det får spelet avgö
 - **Risker och belöningar** – du kan alltid pusha, men stress och trasig utrustning lurar bakom hörnet.
 - **Spelarfokus** – överlevarna är huvudpersonerna, medan zombier och rivaler sköts smidigt av spelledaren.
 - **Berättelsedrivet** – tärningarna driver historien framåt och ger oväntade vändningar.
-- **Flexibelt** – systemet tål både slaktsystem och AI-hack utan större justeringar.
+- **Flexibelt** – systemet tål både slaktsystem och AI-dataintrång utan större justeringar.
 
 ## Tärningstyper
 

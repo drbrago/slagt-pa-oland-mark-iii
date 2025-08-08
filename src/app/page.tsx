@@ -71,6 +71,12 @@ export default function HomePage() {
           Slaktsystem
         </Link>
         <Link
+          href="/codex/hacking"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
+        >
+          Dataintrång
+        </Link>
+        <Link
           href="/codex/threats"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
