@@ -89,6 +89,12 @@ export default function HomePage() {
           Hot & faror
         </Link>
         <Link
+          href="/codex/factions"
+          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
+        >
+          Fraktioner
+        </Link>
+        <Link
           href="/codex/adventures"
           className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
         >
