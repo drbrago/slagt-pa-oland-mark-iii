@@ -1,5 +1,5 @@
 # Regler
-Välkommen till regelsidan för Slakt på Öland mk3! Nedan hittar du en lista över alla regler som finns i denna kodex./rules Klicka på en länk för att läsa mer.
+Välkommen till regelsidan för Slakt på Öland mkIII! Nedan hittar du en lista över alla regler som finns i denna kodex./rules Klicka på en länk för att läsa mer.
 
 - [Grundregler](./rules/core)
 - [Chases](./rules/chases)

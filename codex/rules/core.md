@@ -1,6 +1,6 @@
 # Grundregler
 
-Slakt på Öland mk3 använder ett poolsystem där du kombinerar ett **attribut** och en **färdighet** för att bilda en hand med grundtärningar. Bra utrustning ger även extra utrustningstärningar.
+Slakt på Öland mkIII använder ett poolsystem där du kombinerar ett **attribut** och en **färdighet** för att bilda en hand med grundtärningar. Bra utrustning ger även extra utrustningstärningar.
 
 ## Attribut
 

@@ -1,6 +1,6 @@
 # Färdigheter och attribut för dataintrång
 
-År Noll‑motorn bygger på fyra grundattribut – **Styrka**, **Smidighet**, **Skärpa** (Wits) och **Känsla** (Empathy). När du utför en handling plockar du fram lika många bas‑tärningar som ditt attribut, lika många färdighetstärningar som din färdighetsnivå och eventuella gear‑tärningar från utrustning. Du rullar alla tärningar samtidigt, och varje sexa är en framgång. Om du vill öka chansen kan du pressa slaget och rulla om tärningar som inte visade sexor eller ettor, men då riskerar du trauma på det attribut du använder och skadar dina prylar. Tabellen nedan presenterar de dataintrångsfärdigheter som finns i Slagt på Öland Mark III.
+År Noll‑motorn bygger på fyra grundattribut – **Styrka**, **Smidighet**, **Skärpa** (Wits) och **Känsla** (Empathy). När du utför en handling plockar du fram lika många bas‑tärningar som ditt attribut, lika många färdighetstärningar som din färdighetsnivå och eventuella gear‑tärningar från utrustning. Du rullar alla tärningar samtidigt, och varje sexa är en framgång. Om du vill öka chansen kan du pressa slaget och rulla om tärningar som inte visade sexor eller ettor, men då riskerar du trauma på det attribut du använder och skadar dina prylar. Tabellen nedan presenterar de dataintrångsfärdigheter som finns i Slakt på Öland Mark III.
 
 | Färdighet | Attribut | Användning (kort)|
 |-----------|----------|------------------|

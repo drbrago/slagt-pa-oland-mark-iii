@@ -1,6 +1,6 @@
 # Mekanik för dataintrångsekvenser
 
-Dataintrång i Slagt på Öland Mark III följer en tydlig struktur inspirerad av År Noll‑motorn. Oavsett om du gör ett snabbt slag för att slå av lamporna eller ger dig in i en detaljerad matrix‑run är processen tydlig: beskriva, slå, tolka och hantera konsekvenser. När det gäller dataintrång måste du dessutom hålla reda på digitala fiender och skyddssystem som **ICE**, **Trace** och **SysOp**.
+Dataintrång i Slakt på Öland Mark III följer en tydlig struktur inspirerad av År Noll‑motorn. Oavsett om du gör ett snabbt slag för att slå av lamporna eller ger dig in i en detaljerad matrix‑run är processen tydlig: beskriva, slå, tolka och hantera konsekvenser. När det gäller dataintrång måste du dessutom hålla reda på digitala fiender och skyddssystem som **ICE**, **Trace** och **SysOp**.
 
 ## Snabbt dataintrång (ett slag)
 

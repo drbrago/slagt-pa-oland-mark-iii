@@ -1,6 +1,6 @@
 # Magi och övernaturliga krafter – Översikt
 
-Efter den teknologiska kollapsen på Öland har underliga energier sipprat fram ur spruckna kraftverk, gamla arkiv och muterade skogar. Världen är mörk och absurd, och det går inte längre att skilja rigorös vetenskap från svartkonst. I Slagt på Öland Mark III finns fyra huvudkategorier av övernaturliga krafter:
+Efter den teknologiska kollapsen på Öland har underliga energier sipprat fram ur spruckna kraftverk, gamla arkiv och muterade skogar. Världen är mörk och absurd, och det går inte längre att skilja rigorös vetenskap från svartkonst. I Slakt på Öland Mark III finns fyra huvudkategorier av övernaturliga krafter:
 
 - **Magiska discipliner** – traditionell magi med rötter i folktro, skolad av mästare.
 - **Psioniska talanger** – mentala förmågor som bryter verklighetens regler.

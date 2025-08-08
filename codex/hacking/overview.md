@@ -1,6 +1,6 @@
 # Dataintrång
 
-Dataintrång är livsnerven i Slagt på Öland Mark III. Dataintrång utförs ofta av en angripare som kallas hacker. I den post‑apokalyptiska satiriska versionen av Sverige där spelet utspelar sig är elnäten, wifi‑tornen och de gamla kabelsystemen inte längre bara infrastruktur – de är ruiner av en värld styrd av självständiga AI‑system. Efter kollapsen byggdes ett nytt digitalt ekosystem av AI:er som vägrar låta människorna gå fria. Detta nät kallas **Ö‑nätet** och är lika farligt som Ölands torra landskap. Nätet är både en abstrakt resurs som kan manipuleras med ett snabbt färdighetsslag och en faktisk spelplats: en virtuell karta med noder, drönare och vakande systemoperatörer (SysOp).
+Dataintrång är livsnerven i Slakt på Öland Mark III. Dataintrång utförs ofta av en angripare som kallas hacker. I den post‑apokalyptiska satiriska versionen av Sverige där spelet utspelar sig är elnäten, wifi‑tornen och de gamla kabelsystemen inte längre bara infrastruktur – de är ruiner av en värld styrd av självständiga AI‑system. Efter kollapsen byggdes ett nytt digitalt ekosystem av AI:er som vägrar låta människorna gå fria. Detta nät kallas **Ö‑nätet** och är lika farligt som Ölands torra landskap. Nätet är både en abstrakt resurs som kan manipuleras med ett snabbt färdighetsslag och en faktisk spelplats: en virtuell karta med noder, drönare och vakande systemoperatörer (SysOp).
 
 ## Vad dataintrång innebär
 

@@ -1,6 +1,6 @@
 # Koppling mellan dataintrång och fysisk värld
 
-Dataintrång är inte en isolerad minispel; den har direkt påverkan på strid, infiltration och överlevnad i Slagt på Öland Mark III. I År Noll‑motorn sker konflikter i ronder och varje deltagare har en tur där de får utföra en handling och en manöver. Hackaren måste välja hur den fördelar sin tid mellan dataskärmen och det som händer i rummet.
+Dataintrång är inte en isolerad minispel; den har direkt påverkan på strid, infiltration och överlevnad i Slakt på Öland Mark III. I År Noll‑motorn sker konflikter i ronder och varje deltagare har en tur där de får utföra en handling och en manöver. Hackaren måste välja hur den fördelar sin tid mellan dataskärmen och det som händer i rummet.
 
 ## Dataintrång som handling eller manöver
 
