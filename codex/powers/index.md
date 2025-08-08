@@ -4,6 +4,6 @@ Välkommen till kraftsektionen! Nedan hittar du en lista över allt innehåll om
 
 - [Översikt](./powers/overview)
 - [Magi](./powers/magic)
-- [Psionik](./powers/psionic)
-- [Strålning](./powers/radiation)
-- [Silex](./powers/silex)
+- [Psioniska talanger](./powers/psionic)
+- [Strålningsböjning](./powers/radiation)
+- [Silex-gaskontroll](./powers/silex)
