@@ -3,107 +3,71 @@ import Link from "next/link";
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen text-white flex flex-col items-center">
-      {/* Red Header Bar */}
-      <div className="text-center font-logo bg-blood mt-8 w-full py-8 px-6">
-        <h1 className="translate-y-2 text-center text-wheat text-4xl md:text-6xl lg:text-8xl font-bold tracking-wide">
-          SLAKT PÅ ÖLAND MKIII™
-        </h1>
-      </div>
+    <main className="min-h-screen bg-ink text-albescent-white-100 flex flex-col items-center">
+      {/* Header */}
+      <header className="w-full">
+        <div className="text-center font-logo bg-blood mt-0 w-full py-8 px-6">
+          <h1 className="translate-y-2 text-center text-4xl md:text-6xl lg:text-8xl font-bold tracking-wide">
+            SLAKT PÅ ÖLAND MKIII™
+          </h1>
+        </div>
 
-      {/* Subtitle */}
-      <div className="mt-6 px-4">
-        <h2 className="text-center text-xl text-wheat font-hero md:text-2xl lg:text-4xl tracking-widest font-semibold uppercase">
-          Ett rollspel om Ölands undergång
-        </h2>
-      </div>
+        {/* Subtitle */}
+        <div className="mt-4 px-4">
+          <h2 className="text-center text-lg font-hero md:text-2xl lg:text-3xl tracking-widest font-semibold uppercase">
+            Ett rollspel om Ölands undergång
+          </h2>
+        </div>
+      </header>
 
-      {/* Hero Graphic */}
-      <div className="mt-12">
-        <Image
-          src="/slakt-pa-oland-mark-iii/hero.png" // Replace with your real image path
-          alt="Silhouetted soldier or Öland survivor"
-          width={1024}
-          height={1031}
-        />
-      </div>
+      {/* Hero */}
+      <section className="mt-8 px-4 flex flex-col items-center">
+        <div>
+          <Image
+            src="/slakt-pa-oland-mark-iii/hero.png"
+            alt="Överlevare i gasmask – stämningsbild för Slakt på Öland Mark III"
+            width={1024}
+            height={1031}
+            priority
+          />
+        </div>
 
-      {/* Introduction */}
-      <div className="mt-12 px-4 max-w-2xl text-center">
-        <p className="text-wheat text-lg font-hero mb-4">
-          Slakt på Öland Mark III™ är ett rollspel som tar dig med på en resa
-          genom en postapokalyptisk värld där Öland har förvandlats till en
-          ödemark. Utforska ruinerna av det förflutna, möt farliga fiender och
-          kämpa för överlevnad i en värld där varje beslut räknas.
+        {/* Punchy intro */}
+        <p className="text-center font-hero mt-8 max-w-2xl text-lg md:text-xl">
+          Öland är en ödemark. Maskiner patrullerar ruinerna, Silex-gasen
+          muterar överlevare och varje beslut kan bli ditt sista. Är du redo att
+          överleva?
         </p>
-      </div>
 
-      {/* Navigation / CTA */}
-      <div className="text-wheat mt-12 flex flex-wrap flex-col md:flex-row gap-4 text-center px-6 justify-center">
-        <Link
-          href="/codex/setting"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Utforska världen
-        </Link>
-        <Link
-          href="/codex/rules"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Läs reglerna
-        </Link>
-        <Link
-          href="/codex/characters"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Skapa karaktär
-        </Link>
-        <Link
-          href="/codex/gm-guide"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Spelledarens guide
-        </Link>
-        <Link
-          href="/codex/powers"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Övernaturliga krafter
-        </Link>
-        <Link
-          href="/codex/slaktsystem"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Slaktsystem
-        </Link>
-        <Link
-          href="/codex/hacking"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Dataintrång
-        </Link>
-        <Link
-          href="/codex/threats"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Hot & faror
-        </Link>
-        <Link
-          href="/codex/factions"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Fraktioner
-        </Link>
-        <Link
-          href="/codex/adventures"
-          className="uppercase border border-wheat py-2 px-6 hover:bg-wheat hover:text-black transition"
-        >
-          Äventyr
-        </Link>
-      </div>
+        {/* Primary CTAs */}
+        <div className="flex flex-col gap-6 mt-6 max-w-2xl font-hero">
+          <div className="flex justify-center">
+            <Link
+              href="/start"
+              className="text-ink font-bold uppercase border border-albescent-white-100 py-3 px-7 bg-albescent-white-100 hover:bg-ink hover transition text-center inline-block"
+            >
+              Börja här
+            </Link>
+          </div>
+          <div className="flex flex-col sm:flex-row gap-3">
+            <Link
+              href="/setting"
+              className="uppercase border border-albescent-white-100 py-3 px-7 hover:bg-albescent-white-100 hover:text-ink transition text-center flex-1"
+            >
+              Utforska <br /> världen
+            </Link>
+            <Link
+              href="/characters"
+              className="uppercase border border-albescent-white-100 py-3 px-7 hover:bg-albescent-white-100 hover:text-ink transition text-center flex-1"
+            >
+              Skapa <br /> karaktär
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* Footer */}
-      <footer className="mt-auto py-6 text-sm text-zinc-500">
+      <footer className="mt-auto py-10 text-sm text-zinc-500">
         &copy; 2025 drbrago. Slakt på Öland Mark III.
       </footer>
     </main>

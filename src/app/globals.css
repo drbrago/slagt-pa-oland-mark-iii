@@ -2,7 +2,19 @@
 
 @theme {
   --color-blood: oklch(0.5054 0.1905 27.52);
-  --color-wheat: oklch(0.9473 0.0295 80.66);
+
+  --color-albescent-white-50: #fcf7f0;
+  --color-albescent-white-100: #f6e9d5;
+  --color-albescent-white-200: #efd8b9;
+  --color-albescent-white-300: #e5bc8c;
+  --color-albescent-white-400: #d9995e;
+  --color-albescent-white-500: #d17f3e;
+  --color-albescent-white-600: #c36933;
+  --color-albescent-white-700: #a2522c;
+  --color-albescent-white-800: #82432a;
+  --color-albescent-white-900: #693825;
+  --color-albescent-white-950: #381b12;
+
   --color-ink: oklch(0.13 0.03 122.14);
 
   --font-logo: "Roboto", sans-serif;
@@ -27,3 +39,9 @@ body::before {
 }
 
 @import "./typography.css";
+
+:root {
+  --prose-body: var(--color-albescent-white-100);
+  --prose-headings: var(--color-albescent-white-100);
+  --prose-bold: var(--color-albescent-white-200);
+}
