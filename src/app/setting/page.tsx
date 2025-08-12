@@ -14,10 +14,12 @@ export default function Page() {
       >
         <div className="absolute inset-0 bg-blood/90"></div>
         <div className="relative px-6 py-10">
-          <div className="mx-auto max-w-[65ch]">
+          <div className="mx-auto max-w-[65ch] lg:max-w-none lg:text-center">
             <h1 className="font-hero text-3xl lg:text-5xl tracking-wide">
               Bakgrundshistoria
             </h1>
+          </div>
+          <div className="mx-auto max-w-[65ch]">
             <p className="mt-4">
               Sverige hade stora förhoppningar när man började skapa världens
               första AI-drivna, 100% rena elnät: REN EL 2.0™. Med en mix av
@@ -144,22 +146,22 @@ export default function Page() {
             </h2>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <Link
-                href="/codex/setting"
-                className="text-center uppercase border border-albescent-white-100 py-3 px-6 hover:bg-albescent-white-100 hover:text-black transition"
-              >
-                Utforska världen
-              </Link>
-              <Link
-                href="/codex/characters"
+                href="/characters"
                 className="text-center uppercase border border-albescent-white-100 py-3 px-6 hover:bg-albescent-white-100 hover:text-black transition"
               >
                 Skapa karaktär
               </Link>
               <Link
-                href="/codex/core-rules"
+                href="/core-rules"
                 className="text-center uppercase border border-albescent-white-100 py-3 px-6 hover:bg-albescent-white-100 hover:text-black transition"
               >
                 Lär dig reglerna
+              </Link>
+              <Link
+                href="/gm-guide"
+                className="text-center uppercase border border-albescent-white-100 py-3 px-6 hover:bg-albescent-white-100 hover:text-black transition"
+              >
+                Spelledarguide
               </Link>
             </div>
           </div>

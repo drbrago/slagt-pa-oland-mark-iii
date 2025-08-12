@@ -13,10 +13,12 @@ export default function Page() {
       >
         <div className="absolute inset-0 bg-blood/88"></div>
         <div className="relative px-6 py-10">
-          <div className="mx-auto max-w-[65ch]">
+          <div className="mx-auto max-w-[65ch] lg:max-w-none lg:text-center">
             <h1 className="font-hero text-3xl lg:text-5xl tracking-wide">
               Välkommen till Slakt på Öland MarkIII
             </h1>
+          </div>
+          <div className="mx-auto max-w-[65ch]">
             <p className="mt-4">
               Ett satiriskt, postapokalyptiskt rollspel där Öland blivit en
               isolerad och farlig zon efter att självständiga AI-system raserat
@@ -96,7 +98,7 @@ export default function Page() {
         <div
           className="relative h-[60vh] md:h-[75vh] w-full px-6"
           style={{
-            backgroundImage: "url('/slakt-pa-oland-mark-iii/bridge.png')",
+            backgroundImage: "url('/slakt-pa-oland-mark-iii/bridgeII.png')",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
