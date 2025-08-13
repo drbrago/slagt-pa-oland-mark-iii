@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Slakt på Öland Mark III
 
-## Getting Started
+This project is a statically‑exported [Next.js](https://nextjs.org) site hosted on GitHub Pages. It features a responsive, accessible left side navigation.
 
-First, run the development server:
+## Development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Testing
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm test         # unit tests with Vitest
+npm run test:e2e # Playwright end‑to‑end tests
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Deployment to GitHub Pages
 
-## Learn More
+1. Set the repository base path:
+   ```bash
+   export NEXT_PUBLIC_BASE_PATH=/slakt-pa-oland-mark-iii
+   ```
+2. Build and publish:
+   ```bash
+   npm run deploy
+   ```
+   The script exports the site to `out/` and pushes it to the `gh-pages` branch.
 
-To learn more about Next.js, take a look at the following resources:
+## Extending the Navigation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Navigation items live in [`src/lib/nav.ts`](src/lib/nav.ts). Each item uses the following type:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```ts
+export type NavItem = {
+  title: string;
+  href?: string;
+  icon?: React.ReactNode;
+  children?: NavItem[];
+  external?: boolean;
+};
+```
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Add new routes by editing the `navItems` array. Groups are expanded automatically when a child is active and their state persists in `localStorage`.

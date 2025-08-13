@@ -44,4 +44,12 @@ body::before {
   --prose-body: var(--color-albescent-white-100);
   --prose-headings: var(--color-albescent-white-100);
   --prose-bold: var(--color-albescent-white-200);
+  --rail-w: 280px;
+  --nav-transition: max-height 0.2s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --nav-transition: none;
+  }
 }
