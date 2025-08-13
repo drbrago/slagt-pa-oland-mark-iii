@@ -25,7 +25,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="sv" className={`${bebasNeue.variable} ${robotoSlab.variable}`}>
-      <body className="bg-ink">{children}</body>
+      <body className="bg-ink">
+        <a
+          href="#main-content"
+          className="sr-only z-50 focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:bg-albescent-white-100 focus:text-blood focus:p-2 focus:rounded"
+        >
+          Hoppa till huvudinnehållet
+        </a>
+        {children}
+      </body>
     </html>
   );
 }
